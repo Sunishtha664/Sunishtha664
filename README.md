@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**Sunishtha664/Sunishtha664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sunishtha Tuladhar**🌸  
+🎓 Undergraduate student passionate about tech, creativity, and learning by doing.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 📚 Currently pursuing **Bachelor in Computer Application** 
+- 🌱 Learning **C, PHP, HTML, CSS, Bootstrap, Search Engine Optimization and basic database management.**
+- 💻 Interested in **full-stack web development** and building real-world projects  
+- 🎯 Goal: Keep improving every day & create projects that make life easier  
+
+---
+
+### 💡 What I'm Up To  
+- 🔨 Working on small web projects to sharpen my skills  
+- 🤝 Open to collaborating on beginner-friendly projects  
+- 📖 Exploring more about **algorithms, UI/UX, and problem solving**  
+
+---
+
+### 📬 Let's Connect  
+- 💌 Email: *sunishthatuladhar22@gmail.com*  
+- 🌐 GitHub: [Sunishtha664](https://github.com/Sunishtha664)  
+
+---
+
+✨ *"Turning curiosity into code and mistakes into lessons."*  
