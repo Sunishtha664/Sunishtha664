@@ -26,4 +26,4 @@ I'm **Sunishtha Tuladhar**🌸
 
 ---
 
-✨ *"Turning curiosity into code and mistakes into lessons."*  
+✨ *"Turning curiosity into code and errors into lessons."*  
