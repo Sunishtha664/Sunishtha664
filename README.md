@@ -21,7 +21,6 @@ I'm **Sunishtha Tuladhar**🌸
 ---
 
 ### 📬 Let's Connect  
-- 🌐 LinkedIn: www.linkedin.com/in/sunishtha-tuladhar-b097432b0
 - 💌 Email: *sunishthatuladhar22@gmail.com*  
 - 🌐 GitHub: [Sunishtha664](https://github.com/Sunishtha664)  
 
