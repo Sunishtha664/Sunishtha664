@@ -7,7 +7,7 @@ I'm **Sunishtha Tuladhar**🌸
 
 ### 🚀 About Me  
 - 📚 Currently pursuing **Bachelor in Computer Application** 
-- 🌱 Learning **HTML, CSS, Bootstrap, PHP, Java, C#, Search Engine Optimization and basic database management.**
+- 🌱 Learning **Frontend Basics, Bootstrap, PHP, Java, C#, Search Engine Optimization and basic database management.**
 - 💻 Interested in **full-stack web development** and building real-world projects  
 - 🎯 Goal: Keep improving every day & create projects that make life easier  
 
