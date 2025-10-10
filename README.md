@@ -2,7 +2,7 @@
 
 I'm **Sunishtha Tuladhar**🌸  
 🎓 Undergraduate student passionate about tech, creativity, and learning by doing.  
-sfv
+
 ---
 
 ### 🚀 About Me  
